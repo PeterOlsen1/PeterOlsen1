@@ -10,10 +10,11 @@ I figured it's a good idea to upload all of my projects to GitHub so I can have 
 I'm currently working as a software development intern at RAO manufacturing, creating a fullstack webapp to jumpstart the process of moving the company online. 🚀🚀
 
 My stack is as follows:
-`
-frontend: {React, Sass, some JS/TS templating}
+```
+frontend: {React, Sass, and some HTML, CSS, and JS/TS templating},
 backend:  {
-  web server: {Express},
+  web server: {Express.js},
   api server: {jBASE jAGENT},
   database:  {Pick OS => jBASE Basic}
-`
+}
+```
