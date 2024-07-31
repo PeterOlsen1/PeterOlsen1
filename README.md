@@ -7,9 +7,13 @@ I'm currnetly somewhere between 2 and 3 semesters from graduating with a degree 
 
 I figured it's a good idea to upload all of my projects to GitHub so I can have some sort of version control, and so that those who so choose to can view them
 
-I'm currently working on my 'PlantProcessor' repo, which is a fullstack app where you can track data related to plants. My stack is a bit weird, but I'm just trying out new things to see what works.
-```
-Frontend: {css, Jinja, HTML, minimal JS templating}
-Serverside: {Flask}
-Databse: {MongoDB}
-```
+I'm currently working as a software development intern at RAO manufacturing, creating a fullstack webapp to jumpstart the process of moving the company online. 🚀🚀
+
+My stack is as follows:
+`
+frontend: {React, Sass, some JS/TS templating}
+backend:  {
+  web server: {Express},
+  api server: {jBASE jAGENT},
+  database:  {Pick OS => jBASE Basic}
+`
