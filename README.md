@@ -20,3 +20,11 @@ backend:  {
   database:  {Pick OS => jBASE Basic}
 }
 ```
+
+### GitHub Stats
+<a href="https://github.com/PeterOlsen1">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterolsen1&layout=compact&theme=gotham&langs_count=10">
+</a>
+
+### Time Stats
+[![peterolsen1's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=peterolsen1&theme=gotham&v=2&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
