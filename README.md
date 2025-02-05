@@ -31,5 +31,6 @@ I'm currently creating a monkeytype-esque project, but with code snippets instea
 
 ### GitHub Stats
 <a href="https://github.com/PeterOlsen1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterolsen1&layout=compact&theme=gotham&langs_count=10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterolsen1&layout=donut&theme=gotham&langs_count=20">
+<!--    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=peterolsen1"> -->
 </a>
