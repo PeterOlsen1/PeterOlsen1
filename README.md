@@ -21,16 +21,20 @@ Last semester I completed many projects, among them were:
   
 ## what am i up to now?
 
-I'm currently creating a monkeytype-esque project, but with code snippets instead of plain text.
+I have a few projects going on at the moment, including:
+* A terminal based editor written in rust, called the PTE. (peter's text editor)
+* A site where UMN students can easily host and sign up for office hours. Check it out <a href="https://gopher-hours.web.app">here!</a>
+* An express like server-framework written in C. Not really for any purpose, mostly to just brush up on C skills.
 
-### my skills
+## my skills
 #### web
 [![My Skills](https://skillicons.dev/icons?i=svelte,ember,react,firebase,mongodb,flask,express,fastapi,scss,css,html&theme=dark)](https://skillicons.dev)
 #### languages
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python,c,rust,java&theme=dark)](https://skillicons.dev)
 
-### GitHub Stats
+<!-- readme stats were generated with https://github.com/anuraghazra/github-readme-stats. check it out! -->
+### my stats
 <a href="https://github.com/PeterOlsen1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterolsen1&layout=donut&theme=gotham&langs_count=20">
-<!--    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=peterolsen1"> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterolsen1&layout=donut&theme=gotham&langs_count=20" height=400 align="center">
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=peterolsen1&theme=dark" height=500 align="center">
 </a>
