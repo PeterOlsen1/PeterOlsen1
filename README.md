@@ -1,8 +1,6 @@
-# Welcome to my profile!
+# I'm Peter, welcome to my profile! 👋
 
-## I'm Peter 👋
-
-I've got a website (made to practice React), which can be found [here](https://peterolsen1.github.io/).
+I've got a website which can be found [here](https://peterolsen1.github.io/)
 
 <!-- I'm currently somewhere between 2 and 3 semesters from graduating with a degree in computer science from the University of Minnesota Twin Cities.
 I figured it's a good idea to upload all of my projects to GitHub so I can learn principles of version control, and so that those who so choose to can view them.
@@ -11,7 +9,7 @@ Last summer I finished working as a software development intern at __RAO manufac
 
  The purpose of this app was to ease the process of systematic data entry, speed up communication through automated email sending, present historical data in various different forms to allow for and aide complex data analysis, and to leverage use of machine learning in order to guide admintrative decisions.💡 -->
 
-Last semester I completed many projects, among them were:
+__Last semester I completed many projects, among them were:__
 
 🌱 A social media site for plant owners (Stack: Flask, Jinja, PostgreSQL, PureCSS)
 
@@ -21,10 +19,10 @@ Last semester I completed many projects, among them were:
   
 ## what am i up to now?
 
-I have a few projects going on at the moment, including:
-* A terminal based editor written in rust, called the PTE. (peter's text editor)
+I will be starting a new chapter in my career as a softawre intern at Thrivent this summer (yay! 😎), but as of now I'm working on a spotify playlist continuation recommender system 🎶
+<!-- * A terminal based editor written in rust, called the PTE. (peter's text editor)
 * A site where UMN students can easily host and sign up for office hours. Check it out <a href="https://gopher-hours.web.app">here!</a>
-* An express like server-framework written in C. Not really for any purpose, mostly to just brush up on C skills.
+* An express like server-framework written in C. Not really for any purpose, mostly to just brush up on C skills. -->
 
 ## my skills
 #### web
