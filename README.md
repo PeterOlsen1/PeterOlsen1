@@ -26,6 +26,10 @@ I'm currently in the middle of an internship with Thrivent Financial. I'm workin
 * A site where UMN students can easily host and sign up for office hours. Check it out <a href="https://gopher-hours.web.app">here!</a>
 * An express like server-framework written in C. Not really for any purpose, mostly to just brush up on C skills. -->
 
+## where am i headed?
+
+I head back to school in the fall to finish up my undergrad before heading into an integrated masters, where I hope to broaden my knowledge of various CS topics. Outside of school, I'd love to get some more exposure to programming in Rust and Go.
+
 ## my skills
 #### web
 [![My Skills](https://skillicons.dev/icons?i=nextjs,svelte,firebase,mongodb,flask,express,tailwind,scss,css,html&theme=dark)](https://skillicons.dev)
