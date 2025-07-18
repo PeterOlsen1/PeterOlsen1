@@ -17,7 +17,7 @@ __Last school year I completed many projects, among them were:__
 
 🤓 An AI analysis project where I explored optimizations to single-agent pathtinfing algorithms (Stack was just python)
 
-🎶 A spotify playlist continuation recommender system
+🎶 A spotify playlist continuation recommender system (Python + some ml libraries)
   
 ## what am i up to now?
 
