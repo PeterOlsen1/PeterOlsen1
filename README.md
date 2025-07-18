@@ -9,26 +9,28 @@ Last summer I finished working as a software development intern at __RAO manufac
 
  The purpose of this app was to ease the process of systematic data entry, speed up communication through automated email sending, present historical data in various different forms to allow for and aide complex data analysis, and to leverage use of machine learning in order to guide admintrative decisions.💡 -->
 
-__Last semester I completed many projects, among them were:__
+__Last school year I completed many projects, among them were:__
 
 🌱 A social media site for plant owners (Stack: Flask, Jinja, PostgreSQL, PureCSS)
 
 🎹 A site where musicians can store sheet music PDFs, and edit them on my very own homemade PDF drawing software! (Stack: Ember.js, Firebase)
 
 🤓 An AI analysis project where I explored optimizations to single-agent pathtinfing algorithms (Stack was just python)
+
+🎶 A spotify playlist continuation recommender system
   
 ## what am i up to now?
 
-I will be starting a new chapter in my career as a softawre intern at Thrivent this summer (yay! 😎), but as of now I'm working on a spotify playlist continuation recommender system 🎶
+I'm currently in the middle of an internship with Thrivent Financial. I'm working in the frontend, completely with Next.js, and I've had my fair share of learning already. I've already grown so much in the time I've spent here, and I can't wait to see where it takes me.
 <!-- * A terminal based editor written in rust, called the PTE. (peter's text editor)
 * A site where UMN students can easily host and sign up for office hours. Check it out <a href="https://gopher-hours.web.app">here!</a>
 * An express like server-framework written in C. Not really for any purpose, mostly to just brush up on C skills. -->
 
 ## my skills
 #### web
-[![My Skills](https://skillicons.dev/icons?i=svelte,ember,react,firebase,mongodb,flask,express,fastapi,scss,css,html&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,svelte,firebase,mongodb,flask,express,tailwind,scss,css,html&theme=dark)](https://skillicons.dev)
 #### languages
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python,c,rust,java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,rust,python,c,java&theme=dark)](https://skillicons.dev)
 
 <!-- readme stats were generated with https://github.com/anuraghazra/github-readme-stats. check it out! -->
 ### my stats
