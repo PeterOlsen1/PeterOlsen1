@@ -34,7 +34,7 @@ I head back to school in the fall to finish up my undergrad before heading into 
 #### web
 [![My Skills](https://skillicons.dev/icons?i=nextjs,svelte,firebase,mongodb,flask,express,tailwind,scss,css,html&theme=dark)](https://skillicons.dev)
 #### languages
-[![My Skills](https://skillicons.dev/icons?i=typescript,rust,python,c,java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,go,rust,python,c,java&theme=dark)](https://skillicons.dev)
 
 <!-- readme stats were generated with https://github.com/anuraghazra/github-readme-stats. check it out! -->
 ### my stats
